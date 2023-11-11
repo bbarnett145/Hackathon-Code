@@ -1,0 +1,8 @@
+Name: ########
+DOB: ########
+
+FAMILY HISTORY FILE
+
+Status: Deceased
+Relationship: Father
+Cause of Death: (R)Cardiac_Arrest
